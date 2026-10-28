@@ -10,7 +10,7 @@
 |---|---:|
 | Vagueness | 4 |
 | Incompleteness | 6 |
-| Ambiguity | 2 |
+| Ambiguity | 3 |
 | Contradiction | 2 |
 | Non-verifiability | 2 |
 | Redundancy / Overlap | 1 |
@@ -22,8 +22,8 @@
 | Severity | Number of Defects |
 |---|---:|
 | Critical | 1 |
-| High | 6 |
-| Medium | 10 |
+| High | 7 |
+| Medium | 9 |
 | Low | 1 |
 | **Total** | **18** |
 
